@@ -16,7 +16,7 @@
 - 경로 출력화면
   ![result](./image/resultPage.jpg)
 
-- 지도 출력 화면 (<span style="color:blue">파란색</span>: 파출소</span>, <span style="color:green">초록색</span>: 가로등, <span style="color:red">빨간색</span>: 최단경로)
+- 지도 출력 화면 ( <span style="color:blue">파란색</span> : 파출소</span>, <span style="color:green">초록색</span>: 가로등, <span style="color:red">빨간색</span>: 최단경로)
   ![map](./image/resultMap.jpg)
 
 ------
