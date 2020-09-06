@@ -11,15 +11,12 @@
 ### 서비스 미리보기
 
 - 시작 화면
-
   ![start](./image/startPage.jpg)
 
 - 경로 출력화면
-
   ![result](./image/resultPage.jpg)
 
-- 지도 출력 화면 (파란색: 파출소, 초록색: 가로등, 빨간색: 최단경로)
-
+- 지도 출력 화면 (<span style="color:blue">파란색</span>: 파출소</span>, <span style="color:green">초록색</span>: 가로등, <span style="color:red">빨간색</span>: 최단경로)
   ![map](./image/resultMap.jpg)
 
 ------
@@ -91,4 +88,4 @@ n | Description
 - 안전성: 가로등과 보안용 CCTV 공공데이터 활용을 통한 사용자의 안전 보좌
 - 효율성: 요소 별 두 가지 이상의 길 안내를 통한 유동적 길 선택 제공
 
-### <center> 서비스 개발자 ECB </center>
+### -<center> 서비스 개발자 ECB </center> -
