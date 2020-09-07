@@ -91,3 +91,9 @@ n | Description
 - 효율성: 요소 별 두 가지 이상의 길 안내를 통한 유동적 길 선택 제공
 
 ### <center> -서비스 개발자 ECB-</center>
+
+------------
+
+<img src="./image/소개딩수상팀.jpg"  width="500">
+
+^___^
